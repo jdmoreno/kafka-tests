@@ -1,2 +1,2 @@
 # kafka-tests
-Test of Kafka and python
+Tests with Kafka and Python
